@@ -1,4 +1,3 @@
-# lambda-payment-services
 git add .
-git commit -m "trigger terraform"
+git commit -m "fix: add aws credentials to pipeline"
 git push
